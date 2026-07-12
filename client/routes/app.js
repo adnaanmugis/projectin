@@ -1,0 +1,1 @@
+app.use("/api/videos",require("./routes/videoRoutes"));
